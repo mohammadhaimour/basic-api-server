@@ -5,7 +5,7 @@ Build a server using sequelize and Express Router
 [PR](https://github.com/mohammadhaimour/basic-api-server/branches)
 
 ## Link for Heroku
-[Heroku](https://basicexpressapp.herokuapp.com/)
+[Heroku](https://haimourbasic-api-server.herokuapp.com/food)
 
 ## Link for Actions
 [Actions](https://github.com/mohammadhaimour/basic-api-server/actions)
